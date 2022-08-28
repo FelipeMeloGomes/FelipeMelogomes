@@ -1,5 +1,6 @@
  <h2 align="left">Ola!👋 Meu nome é Felipe Melo.</h2>
-
+ 
+ <h3 align="left">💻Cursando ADS.</h3>
 <h3 align="left">💻Desenvolvedor Web.</h3>
 <h3 align="left">👨‍💻Front-end.</h3>
 <h3 align="left">📚Estudando JavaScript.</h3>
