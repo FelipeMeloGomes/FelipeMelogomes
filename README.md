@@ -19,7 +19,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 <ul align="left">
     <li> Gosto muito de Tecnologia e Games;</li><br>
     <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor Front-End, penso em um dia morar em outros países, viajar o mundo e ser um ótimo profissional;</li><br>
-    <li>Curso Análise e desenvolvimento de Sistemas <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>JavaScript</b> . De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b> e <b>CSS</b>, com uma didática excelente, ainda irei aprender <b>JavaScript</b>, <b>Node</b>, <b>React</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
+    <li>Curso Análise e desenvolvimento de Sistemas <a href="https://www.unopar.com.br/" target="_blank">Unopar</a> aprendendo <b>JavaScript</b> . De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b> e <b>CSS</b>, com uma didática excelente, ainda irei aprender <b>JavaScript</b>, <b>Node</b>, <b>React</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
     <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.</li><br>
 </ul>
 
