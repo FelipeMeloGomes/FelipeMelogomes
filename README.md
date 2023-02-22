@@ -61,7 +61,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" /><br>
       <sub>
         <b>
-          <pre>Bootstrap5</pre>
+          <pre>Bootstrap</pre>
         </b>
       </sub>
     </td>
