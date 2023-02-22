@@ -116,7 +116,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 <h4 align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipe-melo-gomes-87164222a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/FelipeMelogomes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/FelipeMelogomes)]
 
 </h4>
 
