@@ -58,7 +58,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" /><br>
       <sub>
         <b>
           <pre>Bootstrap5</pre>
@@ -93,7 +93,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>    
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vuejs" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vuejs" width="65px"<br>
       <sub>
         <b>
           <pre>VueJS</pre>
@@ -115,8 +115,8 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <h4 align="center">
   
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/rhogger)](https://www.linkedin.com/in/felipe-melo-gomes-87164222a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](mailto:felipemelogomes36@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipe-melo-gomes-87164222a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/FelipeMelogomes)](mailto:felipemelogomes36@gmail.com)
 
 </h4>
 
