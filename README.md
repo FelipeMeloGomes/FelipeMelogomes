@@ -18,8 +18,8 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <ul align="left">
     <li> Gosto muito de Tecnologia e Games;</li><br>
-    <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor Front-End, penso em um dia morar em outros países, viajar o mundo e ser um ótimo profissional;</li><br>
-    <li>Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/" target="_blank">Unopar</a> e atualmente estou focado no aprendizado de Desenvolvimento Front End. <br> Porém, para complementar meus estudos, decidi investir em cursos pela internet, que tem uma variedade de opções com didáticas excelentes. <br>No momento, estou dedicado ao estudo de <b>JavaScript e seus frameworks</b>, incluindo <b>Node</b> e <b>React</b>, além de aprimorar meus conhecimentos em <b>Git</b> e <b>Github</b>. 💻<br><br>
+    <li>Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um <b>Desenvolvedor Front-End</b> em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.</li><br>
+    <li>Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/" target="_blank">Unopar</a> e atualmente estou focado no aprendizado de <b>Desenvolvimento Front End</b>. <br> Porém, para complementar meus estudos, decidi investir em cursos pela internet, que tem uma variedade de opções com didáticas excelentes. <br>No momento, estou dedicado ao estudo de <b>JavaScript e seus frameworks</b>, incluindo <b>Node</b> e <b>React</b>, além de aprimorar meus conhecimentos em <b>Git</b> e <b>Github</b>. 💻<br><br></li>
     <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.</li><br>
 </ul>
 
