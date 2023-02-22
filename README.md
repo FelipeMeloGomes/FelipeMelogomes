@@ -122,7 +122,9 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <!-- FIM CONTATE-ME -->
 
+<br><br><br>
 
+<h2 align="center"><b>Commits</b></h2>
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
 
