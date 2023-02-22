@@ -29,7 +29,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <!-- TECNLOGIAS -->
 
-<h2 align="center"><b>Tecnologias</b></h2>
+<h2 align="center"><b>Tecnologias / Ferramentas</b></h2>
 <img align="left" height="289px" width="354px" alt="programming" src="./images/Techs.gif"/>
 <table align="right" height="300px">
   <tr>
@@ -54,6 +54,14 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       <sub>
         <b>
           <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap5</pre>
         </b>
       </sub>
     </td>
@@ -85,21 +93,13 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>    
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=VueJS-Dark" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vuejs" width="65px" alt="Figma icon"/><br>
       <sub>
         <b>
-          <pre>Vue JS</pre>
+          <pre>VueJS</pre>
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
-      <sub>
-        <b>
-          <pre>Markdown</pre>
-        </b>
-      </sub>
-    </td> 
   </tr>
 </table> 
 
