@@ -1,43 +1,131 @@
- <h2 align="left">Ola!👋 Meu nome é Felipe Melo.</h2>
- 
- <h3 align="left">💻Cursando ADS.</h3>
-<h3 align="left">💻Desenvolvedor Web.</h3>
-<h3 align="left">👨‍💻Front-end.</h3>
-<h3 align="left">📚Estudando JavaScript.</h3>
-<h3 align="left">🎮Apaixonado por games.</h3>
+<!-- INTRO -->
 
-###
+<img align="left" width="100%" alt="intro gif" src="./images/Intro.gif"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<br clear="both">
+<h3 align="center">  
+<br><hr>
+Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
+<br><hr><br>
+</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&username=FelipeMelogomes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=FelipeMelogomes" height="150" alt="languages graph"  />
-</div>
+<!-- FIM INTRO -->
 
-###
+<!-- SOBRE MIM -->
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-</div>
+<h2 align="center"><b>Sobre mim</b></h2>
+<img align="right" src="./images/About.gif" width="313px" height="313px" alt="Who are you">
 
-###
+<ul align="left">
+    <li> Gosto muito de Tecnologia e Jogos;</li><br>
+    <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor Front-End, penso em um dia morar em outros países, viajar o mundo e ser um ótimo profissional;</li><br>
+    <li>Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>JavaScript</b> . De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b> e <b>CSS</b>, com uma didática excelente, ainda irei aprender <b>JavaScript</b>, <b>Node</b>, <b>React</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
+    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.</li><br>
+</ul>
 
-<div align="left">
-  <a href="https://www.instagram.com/lipimmff22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-melo-gomes-87164222a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br>
 
-###
+<!-- FIM SOBRE MIM -->
+
+<!-- TECNLOGIAS -->
+
+<h2 align="center"><b>Tecnologias</b></h2>
+<img align="left" height="289px" width="354px" alt="programming" src="./images/Techs.gif"/>
+<table align="right" height="300px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;GitHub&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>    
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=VueJS-Dark" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>Vue JS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>Markdown</pre>
+        </b>
+      </sub>
+    </td> 
+  </tr>
+</table> 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!-- FIM TECNOLOGIAS -->
+
+<!-- CONTATE-ME -->
+
+<h2 align="center"><b>Contate-me</b></h2>
+
+<br><br>
+
+<h4 align="center">
+  
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/rhogger)](https://contate.me/RhoggerFS)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/rhogger)](https://www.linkedin.com/in/rhogger-fs/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/rhogger._.fs/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](mailto:rhoggerrv@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/rhogger)](https://discord.com/channels/@me/968511537520214037)
+
+</h4>
+
+<!-- FIM CONTATE-ME -->
+
+
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
 
