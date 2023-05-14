@@ -1,6 +1,6 @@
 <!-- INTRO -->
 
-<img align="left" width="100%" alt="intro gif" src="./images/hellworld.gif"/>
+<img align="left" height="100%" width="100%" alt="intro gif" src="./images/hellworld.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3 align="center">  
