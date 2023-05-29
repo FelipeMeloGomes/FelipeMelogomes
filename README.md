@@ -117,7 +117,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
   
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipemelog/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](felipemelogomes36@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/lipimm_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/devfelipemelo/)
 
 </h4>
 
