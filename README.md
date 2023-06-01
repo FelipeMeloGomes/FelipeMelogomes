@@ -28,7 +28,7 @@
 
 <h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
 <img align="left" height="100%" width="400px" alt="programming" src="./images/Techs.gif"/>
-<table align="right" width="100%"  height="100%">
+<table align="right" width="400px"  height="100%">
   <tr>
     <td align="center" >
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
@@ -105,15 +105,18 @@
 
 <!-- CONTATE-ME -->
 
-<h2 align="center"><b><i>Meu contato</i></b></h2>
+<h2 align="center"><b><i>Contato</i></b></h2>
 
 <br><br>
 
 <h4 align="center">
   
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipemelog/)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](felipemelogomes36@gmail.com)
-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/devfelipemelo/)
+<a href="https://www.linkedin.com/in/felipemelog/"  target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" height="20%" />
+</a>
+<a href="https://www.instagram.com/devfelipemelo/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="20%" height="20%" />
+</a>
 
 </h4>
 
@@ -122,7 +125,7 @@
 <!--  INICIO SNAKE -->
 <br><br><br>
 
-<h2 align="center"><b><i>Commits</i></b></h2>
+<h2 align="center"><b><i>Snake Commits</i></b></h2>
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
  
