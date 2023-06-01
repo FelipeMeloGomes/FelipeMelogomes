@@ -1,11 +1,7 @@
 <!-- INTRO -->
-
-<img align="left" height="100%" width="100%" alt="intro gif" src="./images/hellworld.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 <h3 align="center">  
 <br><hr>
-Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
+    <i>Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
 <br><hr><br>
 </h3>
 
@@ -13,15 +9,16 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <!-- SOBRE MIM -->
 
-<h2 align="center"><b>Sobre mim</b></h2>
-<img align="right" src="./images/About.gif" width="313px" height="313px" alt="Who are you">
+<h2 align="center"><b><i>Sobre mim</i></b></h2>
+<img align="right" src="./images/About.gif" width="310px" height="310px" alt="Who are you">
 
-<ul align="left">
-    <li> Gosto muito de Tecnologia e Games;</li><br>
-    <li>Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um <b>Desenvolvedor Front-End</b> em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.</li><br>
-    <li>Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/" target="_blank">Unopar</a> e atualmente estou focado no aprendizado de <b>Desenvolvimento Front End</b>. <br> Porém, para complementar meus estudos, decidi investir em cursos pela internet, que tem uma variedade de opções com didáticas excelentes. <br>No momento, estou dedicado ao estudo de <b>JavaScript e seus frameworks</b>, incluindo <b>Node</b> e <b>React</b>, além de aprimorar meus conhecimentos em <b>Git</b> e <b>Github</b>. 💻<br><br></li>
-    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.</li><br>
-</ul>
+- Gosto muito de Tecnologia e Games;
+- Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
+- Estou estudando Análise e Desenvolvimento de Sistemas na [Unopar](https://www.unopar.com.br/) e atualmente estou focado no aprendizado de **Desenvolvimento Front End**. 
+- Porém, para complementar meus estudos, decidi investir em cursos pela internet, que tem uma variedade de opções com didáticas excelentes. 
+- No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
+- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
+
 
 <br>
 
@@ -29,11 +26,11 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <!-- TECNLOGIAS -->
 
-<h2 align="center"><b>Tecnologias / Ferramentas</b></h2>
-<img align="left" height="289px" width="354px" alt="programming" src="./images/Techs.gif"/>
-<table align="right" height="300px">
+<h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
+<img align="left" height="100%" width="400px" alt="programming" src="./images/Techs.gif"/>
+<table align="right" width="100%"  height="100%">
   <tr>
-    <td align="center">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
@@ -45,7 +42,7 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS&ensp;</pre>
+          <pre>CSS</pre>
         </b>
       </sub>
     </td>
@@ -66,37 +63,36 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
   </tr>
-  
   <tr>
-  <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+  <td align="center" >
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="vscode icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
+          <pre>VsCode</pre>
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;GitHub&emsp;</pre>
+          <pre>GitHub</pre>
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Git</pre>
         </b>
       </sub>
     </td>    
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vuejs" width="65px"<br>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=vuejs" alt="vue icon" width="65px"<br>
       <sub>
         <b>
-          <pre>VueJS</pre>
+          <pre>VueJs</pre>
         </b>
       </sub>
     </td>
@@ -109,24 +105,25 @@ Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃
 
 <!-- CONTATE-ME -->
 
-<h2 align="center"><b>Contate-me</b></h2>
+<h2 align="center"><b><i>Meu contato</i></b></h2>
 
 <br><br>
 
 <h4 align="center">
   
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipemelog/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](felipemelogomes36@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/devfelipemelo/)
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://FelipeMelogomes)](https://www.linkedin.com/in/felipemelog/)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](felipemelogomes36@gmail.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/devfelipemelo/)
 
 </h4>
 
 <!-- FIM CONTATE-ME -->
 
+<!--  INICIO SNAKE -->
 <br><br><br>
 
-<h2 align="center"><b>Commits</b></h2>
+<h2 align="center"><b><i>Commits</i></b></h2>
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
-
-
+ 
+<!-- FIM SANKE -->
