@@ -105,7 +105,7 @@
 
 <!-- CONTATE-ME -->
 
-<h2 align="center"><b><i>Contato</i></b></h2>
+<h2 align="center"><b><i>🚀 Contato</i></b></h2>
 
 <br><br>
 
@@ -129,4 +129,14 @@
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
  
+ 
 <!-- FIM SANKE -->
+
+<!-- INICIO  GIT HUB -->
+ <h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
+
+ <p align="center">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMelogomes&show_icons=true&theme=dark">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelogomes&layout=compact&theme=dark">
+</p>
+<!-- FIM  GIT HUB -->
