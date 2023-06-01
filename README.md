@@ -1,7 +1,7 @@
 <!-- INTRO -->
 <h3 align="center">  
 <br><hr>
-    <i>Oi, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
+    <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
 <br><hr><br>
 </h3>
 
