@@ -105,31 +105,29 @@
 
 <!-- CONTATE-ME -->
 
-<h2 align="center"><b><i>🚀 Contato</i></b></h2>
+<h2 align="center"><b><i>🚀 Social links</i></b></h2>
 
 <br><br>
 
-<h4 align="center">
-  
-<a href="https://www.linkedin.com/in/felipemelog/"  target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" height="20%" />
-</a>
-<a href="https://www.instagram.com/devfelipemelo/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="20%" height="20%" />
-</a>
-
-</h4>
+<p align="center" style="background:yellow">  
+    <a href="https://www.linkedin.com/in/felipemelog/"  target="_blank">
+      <img align="center"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" height="20%" />
+    </a>
+    <a href="https://www.instagram.com/devfelipemelo/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="20%" height="20%" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5564992600637&text=Ol%C3%A1%20Felipe%20Melo,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub!"  target="_blank">
+      <img align="center"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="20%" height="20%" />
+    </a>
+</p>
 
 <!-- FIM CONTATE-ME -->
-
 <!--  INICIO SNAKE -->
 <br><br><br>
 
 <h2 align="center"><b><i>Snake Commits</i></b></h2>
 
  ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
- 
- 
 <!-- FIM SANKE -->
 
 <!-- INICIO  GIT HUB -->
