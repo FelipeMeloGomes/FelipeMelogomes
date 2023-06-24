@@ -61,6 +61,14 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
   <tr>
   <td align="center" >
@@ -92,6 +100,14 @@
       <sub>
         <b>
           <pre>VueJs</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=react" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>React</pre>
         </b>
       </sub>
     </td>
