@@ -27,7 +27,7 @@
 
 <h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
 <img align="left" height="100%" width="300" alt="programming" src="./images/Techs.gif"/>
-<table align="right" width="400px"  height="100%">
+<table align="right" width="500px"  height="100%">
   <tr>
     <td align="center" >
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
