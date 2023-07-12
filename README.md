@@ -26,7 +26,7 @@
 <!-- TECNLOGIAS -->
 
 <h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
-<img align="left" height="100%" width="400" alt="programming" src="./images/Techs.gif"/>
+<img align="left" height="100%" width="300" alt="programming" src="./images/Techs.gif"/>
 <table align="right" width="400px"  height="100%">
   <tr>
     <td align="center" >
