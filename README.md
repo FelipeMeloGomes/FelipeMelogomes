@@ -2,13 +2,11 @@
 <h3 align="center">  
 <br><hr>
     <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
-<br><hr><br>
+<br><hr/>
 </h3>
-
 <!-- FIM INTRO -->
 
 <!-- SOBRE MIM -->
-
 <h2 align="center"><b><i>Sobre mim</i></b></h2>
 <img align="right" src="./images/About.gif" width="310px" height="310px" alt="Who are you">
 
@@ -137,6 +135,7 @@
 </p>
 
 <!-- FIM CONTATE-ME -->
+
 <!--  INICIO SNAKE -->
 <br><br><br>
 
