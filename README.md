@@ -149,7 +149,6 @@
  <h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
 
  <p align="center">
-    <a href="https://app.daily.dev/felipemelogomes"><img src="https://api.daily.dev/devcards/70a4e310e3d0422e8ff4253d4c115d26.png?r=4zx" width="400" alt="Felipe Melo Gomes's Dev Card"/></a>
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMelogomes&show_icons=true&theme=dark">
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelogomes&layout=compact&theme=dark">
 </p>
