@@ -5,17 +5,15 @@
 <br><hr/>
 </h3>
 <!-- FIM INTRO -->
-
 <!-- SOBRE MIM -->
 <h2 align="center"><b><i>Sobre mim</i></b></h2>
 <img align="right" src="./images/About.gif" width="310px" height="310px" alt="Who are you">
 
-- Gosto muito de Tecnologia e Games;
-- Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
-- Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**. 
-- No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node** , **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
-- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
-
+-   Gosto muito de Tecnologia e Games;
+-   Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
+-   Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**.
+-   No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node** , **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
+-   Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
 
 <br>
 
@@ -110,7 +108,7 @@
       </sub>
     </td>
   </tr>
-</table> 
+</table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -137,11 +135,13 @@
 <!-- FIM CONTATE-ME -->
 
 <!--  INICIO SNAKE -->
+
 <br><br><br>
 
 <h2 align="center"><b><i>Snake Commits</i></b></h2>
 
- ![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FelipeMelogomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
+
 <!-- FIM SANKE -->
 
 <!-- INICIO  GIT HUB -->
