@@ -148,7 +148,7 @@
  <h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
 
  <p align="center">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMelogomes&show_icons=true&theme=dark">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelogomes&layout=compact&theme=dark">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=dark">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&theme=dark">
 </p>
 <!-- FIM  GIT HUB -->
