@@ -141,7 +141,7 @@
 
 <h2 align="center"><b><i>Snake Commits</i></b></h2>
 
-![snake gif](https://github.com/FelipeMeloGomes/FelipeMelogomes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FelipeMeloGomes/FelipeMeloGomes/blob/output/github-contribution-grid-snake.svg)
 
 <!-- FIM SANKE -->
 
