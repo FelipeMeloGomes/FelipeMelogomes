@@ -1,25 +1,26 @@
 <!-- INTRO -->
-<h3 align="center">  
-<br><hr>
-    <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
-<br><hr/>
+<h3 align="center">
+  <br><hr>
+  <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
+  <br><hr/>
 </h3>
 <!-- FIM INTRO -->
+
 <!-- SOBRE MIM -->
 <h2 align="center"><b><i>Sobre mim</i></b></h2>
 <img align="right" src="./images/About.gif" width="310px" height="310px" alt="Who are you">
 
--   Gosto muito de Tecnologia e Games;
--   Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
--   Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**.
--   No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node** , **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
--   Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
+- Gosto muito de Tecnologia e Games;
+- Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
+- Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**.
+- No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node**, **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
+- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
 
 <br>
 
 <!-- FIM SOBRE MIM -->
 
-<!-- TECNLOGIAS -->
+<!-- TECNOLOGIAS -->
 
 <h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
 <img align="left" height="100%" width="300" alt="programming" src="./images/Techs.gif"/>
@@ -67,7 +68,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center" >
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="vscode icon"/><br>
       <sub>
         <b>
@@ -134,7 +135,7 @@
 
 <!-- FIM CONTATE-ME -->
 
-<!--  INICIO SNAKE -->
+<!-- INICIO SNAKE -->
 
 <br><br><br>
 
@@ -144,11 +145,11 @@
 
 <!-- FIM SANKE -->
 
-<!-- INICIO  GIT HUB -->
- <h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
+<!-- INICIO GIT HUB -->
+<h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
 
- <p align="center">
+<p align="center">
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=dark">
     <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&theme=dark">
 </p>
-<!-- FIM  GIT HUB -->
+<!-- FIM GIT HUB -->
