@@ -14,7 +14,7 @@
 - Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
 - Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**.
 - No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node**, **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
-- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech** como a **Microsoft** ou **Google**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
+- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
 
 <br>
 
