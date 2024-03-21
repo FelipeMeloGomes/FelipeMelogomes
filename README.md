@@ -117,7 +117,7 @@
 
 <!-- CONTATE-ME -->
 
-<h2 align="center"><b><i>🚀 Social links</i></b></h2>
+<h2 align="center"><b><i>🚀 Links</i></b></h2>
 
 <br><br>
 
