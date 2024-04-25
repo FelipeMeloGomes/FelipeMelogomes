@@ -26,17 +26,17 @@ Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. A
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css," />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </a>
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest,tailwind,bootstrap" />
 </a>
 
 ### Tools and Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,postman,pnpm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,postman,pnpm,vscode,netlify,windows,notion" />
 </a>
 
 
@@ -60,15 +60,6 @@ Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. A
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
 </details>
-
-
-
-
-
-
-
-
-
 
 
 <picture>
