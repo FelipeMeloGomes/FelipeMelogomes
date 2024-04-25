@@ -1,7 +1,8 @@
 <!-- INTRO -->
 <h3 align="center">
   <br><hr>
-  <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /></i>
+  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Desenvolvedor+Front-end" alt="Typing SVG"  /></a>
   <br><hr/>
 </h3>
 <!-- FIM INTRO -->
@@ -23,8 +24,7 @@
 <!-- TECNOLOGIAS -->
 
 <h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
-<img align="left" height="100%" width="300" alt="programming" src="./images/Techs.gif"/>
-<table align="right" width="500px"  height="100%">
+<table align="left" width="500px"  height="100%">
   <tr>
     <td align="center" >
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
@@ -66,16 +66,56 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="vscode icon"/><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" /><br>
       <sub>
         <b>
-          <pre>VsCode</pre>
+          <pre>Node js</pre>
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=notion" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Notion</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=npm" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Npm</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Windows</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Vscode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" /><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" >
       <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
       <sub>
@@ -105,6 +145,78 @@
       <sub>
         <b>
           <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=ts" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=linux" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=jest" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=mysql" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=netlify" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Netlify</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=firebase" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Firebase</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=md" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Markdown</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=materialui" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Material UI</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" >
+      <img src="https://skillicons.dev/icons?i=pnpm" alt="react icon" width="65px"<br>
+      <sub>
+        <b>
+          <pre>Pnpm</pre>
         </b>
       </sub>
     </td>
