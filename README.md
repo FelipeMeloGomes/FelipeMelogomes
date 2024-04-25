@@ -1,267 +1,79 @@
-<!-- INTRO -->
-<h3 align="center">
-  <br><hr>
-  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Desenvolvedor+Front-end" alt="Typing SVG"  /></a>
-  <br><hr/>
-</h3>
-<!-- FIM INTRO -->
+![I'm a Software Engineer (1)](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-<!-- SOBRE MIM -->
-<h2 align="center"><b><i>Sobre mim</i></b></h2>
-<img align="right" src="./images/About.gif" width="310px" height="310px" alt="Who are you">
 
-- Gosto muito de Tecnologia e Games;
-- Estou me dedicando aos estudos e aprimorando minhas habilidades para me tornar um **Desenvolvedor Front-End** em um futuro próximo. Tenho como objetivo morar em outros países, viajar pelo mundo e me tornar um excelente profissional na minha área de atuação.
-- Estou estudando **Engenharia de software** na Unopar e atualmente estou focado no aprendizado de **Desenvolvimento Front End**.
-- No momento, estou dedicado ao estudo de **JavaScript e seus frameworks**, incluindo **Node**, **VueJs** e **React**, além de aprimorar meus conhecimentos em **Git** e **Github**. 💻
-- Meu objetivo mais distante seria um dia trabalhar em uma **Big Tech**. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.
+# Hi there! I'm Felipe Melo (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />)
 
-<br>
 
-<!-- FIM SOBRE MIM -->
+Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. Atualmente, estou focado em me tornar um Desenvolvedor Front-End. Estudo Engenharia de Software na Unopar e estou imerso no aprendizado de JavaScript e seus frameworks, como Node, VueJs e React. Estou comprometido em aprimorar minhas habilidades em Git e Github para fortalecer minha jornada profissional. Meu objetivo é viver em outros países, explorar o mundo e me destacar como um profissional de destaque na área de tecnologia. Sonho em um dia trabalhar em uma Big Tech, mas até lá, estou comprometido em progredir na minha carreira, passo a passo, no meu próprio ritmo. 💻
 
-<!-- TECNOLOGIAS -->
+<img align="right" alt="" height="300px" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526uqi8ahc5w0kr0a8ievwev7m67wxy7b08gfq34cp&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-<h2 align="center"><b><i>Tecnologias / Ferramentas</i></b></h2>
-<table align="left" width="500px"  height="100%">
-  <tr>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>CSS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>JavaScript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Node js</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=notion" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Notion</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=npm" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=windows" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Windows</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Vscode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" /><br>
-      <sub>
-        <b>
-          <pre>Vite</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
-      <sub>
-        <b>
-          <pre>GitHub</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>    
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=vuejs" alt="vue icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>VueJs</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=react" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>React</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=ts" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=linux" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=jest" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Jest</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=mysql" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=netlify" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Netlify</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=firebase" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Firebase</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=md" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Markdown</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=materialui" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Material UI</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" >
-      <img src="https://skillicons.dev/icons?i=pnpm" alt="react icon" width="65px"<br>
-      <sub>
-        <b>
-          <pre>Pnpm</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-</table>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> What I'm up to
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Man Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Dio](https://www.dio.me/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Freelancer
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="30" height="30" /> Technologies I'm learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MySQL, and Node.js are some of the technologies on my radar.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
 
-<!-- FIM TECNOLOGIAS -->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:felipeemlogomes36@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/felipemelog/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/devfelipemelo/)
 
-<!-- CONTATE-ME -->
 
-<h2 align="center"><b><i>🚀 Links</i></b></h2>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
 
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css," />
+</a>
+
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest" />
+</a>
+
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,postman,pnpm" />
+</a>
+
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=FelipeMeloGomes&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeMeloGomes/FelipeMeloGomes/output/github-contribution-grid-snake.svg">
+</picture>
 <br><br>
-
-<p align="center" style="background:yellow">  
-    <a href="https://www.linkedin.com/in/felipemelog/"  target="_blank">
-      <img align="center"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" height="20%" />
-    </a>
-    <a href="https://www.instagram.com/devfelipemelo/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="20%" height="20%" />
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5564992600637&text=Ol%C3%A1%20Felipe%20Melo,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub!"  target="_blank">
-      <img align="center"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="20%" height="20%" />
-    </a>
-</p>
-
-<!-- FIM CONTATE-ME -->
-
-<!-- INICIO SNAKE -->
-
-<br><br><br>
-
-<h2 align="center"><b><i>Snake Commits</i></b></h2>
-
-![snake gif](https://github.com/FelipeMeloGomes/FelipeMeloGomes/blob/output/github-contribution-grid-snake-dark.svg)
-
-<!-- FIM SANKE -->
-
-<!-- INICIO GIT HUB -->
-<h2 align="center"><b><i>⚙️ GitHub Analytics</i></b></h2>
-
-<p align="center">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeMeloGomes&show_icons=true&theme=dark">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMeloGomes&layout=compact&theme=dark">
-</p>
-<!-- FIM GIT HUB -->
