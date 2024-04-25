@@ -1,7 +1,7 @@
 <!-- INTRO -->
 <h3 align="center">
   <br><hr>
-  <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! 😃</i>
+  <i>Olá, eu sou o Felipe, acompanhe minha evolução pelo GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /></i>
   <br><hr/>
 </h3>
 <!-- FIM INTRO -->
