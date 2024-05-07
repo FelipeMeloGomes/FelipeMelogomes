@@ -31,7 +31,7 @@ Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. A
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest,tailwind,bootstrap,next" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest,tailwind,bootstrap,next,styledcomponents" />
 </a>
 
 ### Tools and Platforms
