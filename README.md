@@ -21,23 +21,24 @@ Olá! 👋 Meu nome é Felipe Melo, e sou um entusiasta de Tecnologia e Games. A
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/felipemelog/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/devfelipemelo/)
 
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias que utilizo no meu dia-a-dia
-
-### Languages and Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</a>
-
-### Frameworks and Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mysql,materialui,jest,tailwind,bootstrap,next,styledcomponents" />
-</a>
-
-### Tools and Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,postman,pnpm,vscode,netlify,windows,notion" />
-</a>
+## Stack 👩🏻‍💻
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![NextJS](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) &nbsp;
+<br>
+## Conhecimentos 👩🏻‍💻
+![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react) &nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
+<br>
+## Ferramentas 👩🏻‍💻
+![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
+<br>
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
